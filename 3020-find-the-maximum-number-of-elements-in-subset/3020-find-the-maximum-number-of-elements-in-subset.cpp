@@ -22,25 +22,25 @@ public:
             curCount = 2;
             int p = 2;
             long long val = 1LL*i*i;
+            
             //if next val is not found
             if(mp.find(val) == mp.end()) curCount-=1;
             
             //next power found
             while(mp.find(val) != mp.end()){
-                if(mp[val] >= 2){
+                if(mp[val] >= 2)
                     curCount += 2;
-                }
                 else {
                     curCount+=1;
                     break;
                 }
 
-
-                //i^8 = (i^4)^2 = i * i (since ^2 is just sqaure)
+                //to prevent overflow
                 if(val > 1e9){
                     curCount -=1;
                     break;
                 }
+                //i^8 = (i^4)^2 = i * i (since ^2 is just sqaure)
                 val *= val;
           
                 //when nextPower is not there just remove 1 count cause single element in middle and exit 
