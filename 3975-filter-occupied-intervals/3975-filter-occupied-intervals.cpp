@@ -22,10 +22,14 @@ public:
                     break;
                 j++;
             }
+
+            //incase there is no overlap we cant pus empty v , thus this condition
             if(!v.empty())
                 ans.push_back(v);
             else 
                 ans.push_back(oi[i]);
+
+            //to skip already checked indexes and prevent duplicates
             i=j;
         }
     }
@@ -35,12 +39,10 @@ public:
     // fs = 4
     // fe = 6 
     //ans = {1,3} , {7,10}
-
     void filter(vector<vector<int>>&ans, int fs, int fe){
         vector<vector<int>>total;
         int n = ans.size();
         for(int i=0;i<n;i++){
-            vector<int>v;
             int end = ans[i][1];
             int start = ans[i][0];
 
@@ -51,20 +53,16 @@ public:
             else{
                 //left part
                 if(fs - 1 >= start ){
-                    v = {start,fs-1};
-                    total.push_back(v);
+                    total.push_back({start,fs-1});
                 }
                 //right part 
                 if( fe + 1 <= end){
-                    v = {fe+1,end};
-                    total.push_back(v);
+                    total.push_back({fe+1,end});
                 }    
             }
-
         }
         ans = total;
     }
-
 
     vector<vector<int>> filterOccupiedIntervals(vector<vector<int>>& occupiedIntervals, int freeStart, int freeEnd) {
         vector<vector<int>>ans;
