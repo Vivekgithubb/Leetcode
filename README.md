@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
+| [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
