@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vivekgithubb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vivekgithubb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
