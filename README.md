@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/Vivekgithubb/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Stack
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/Vivekgithubb/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
+## Recursion
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/Vivekgithubb/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
