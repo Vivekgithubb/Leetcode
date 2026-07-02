@@ -19,22 +19,24 @@ public:
 
         // int ans = maxAns(piles,total,0,n-1,dp);
         // return ans > total - ans;
-
+        vector<int>cur(n,-1),prev(n,-1);
         for(int i=n-1; i>=0 ; i--){
             for(int j=0;j<n;j++){
                 if(i==j){
-                    dp[i][j] = piles[i];
+                    cur[j] = piles[j];
                     continue;
                 }
                 if(i>j) continue;
-                int leftMax = piles[i] - dp[i+1][j];
-                int rightMax = piles[j] - dp[i][j-1]; 
 
-                dp[i][j] = max(leftMax,rightMax);
+                int leftMax = piles[i] - prev[j];
+                int rightMax = piles[j] - cur[j-1]; 
+
+                cur[j] = max(leftMax,rightMax);
             }
+            prev = cur;
         }
 
-        return dp[0][n-1] >= 0;
+        return prev[n-1] >= 0;
         // return true;
     }
 };
