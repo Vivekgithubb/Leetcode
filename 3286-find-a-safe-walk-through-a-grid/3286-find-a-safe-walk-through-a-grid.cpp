@@ -11,6 +11,7 @@ public:
 
         vector<vector<int>>vis(n,vector<int>(m,0));
 
+        //since we use dijkstras we are sure that every time we reach , we are reaching with highest possible health , which means its the best path upto that point
         while(!pq.empty()){
             auto it = pq.top();
             int r = it.second.first;
@@ -18,7 +19,7 @@ public:
             int curHealth = it.first;
             pq.pop();
 
-            //check if already visited , mark visited
+            //check if already visited else mark visited
             if(vis[r][c]) continue; 
             vis[r][c] = 1;
 
