@@ -17,24 +17,24 @@ public:
         for(auto i : piles) total += i;
         vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
 
-        int ans = maxAns(piles,total,0,n-1,dp);
-        return ans > total - ans;
+        // int ans = maxAns(piles,total,0,n-1,dp);
+        // return ans > total - ans;
 
-        // for(int i=n-1; i>=0 ; i--){
-        //     for(int j=0;j<n;j++){
-        //         if(i==j){
-        //             dp[i][j] = piles[i];
-        //             continue;
-        //         }
-        //         if(i>j) continue;
-        //         int leftMax = piles[i] - dp[i+1][j];
-        //         int rightMax = piles[j] - dp[i][j-1]; 
+        for(int i=n-1; i>=0 ; i--){
+            for(int j=0;j<n;j++){
+                if(i==j){
+                    dp[i][j] = piles[i];
+                    continue;
+                }
+                if(i>j) continue;
+                int leftMax = piles[i] - dp[i+1][j];
+                int rightMax = piles[j] - dp[i][j-1]; 
 
-        //         dp[i][j] = max(leftMax,rightMax);
-        //     }
-        // }
+                dp[i][j] = max(leftMax,rightMax);
+            }
+        }
 
-        // return dp[1][n-1] >= 0;
+        return dp[0][n-1] >= 0;
         // return true;
     }
 };
