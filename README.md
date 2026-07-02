@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivekgithubb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
