@@ -59,10 +59,10 @@ public:
                 }
             }
         }
-        vector<int>ans;
+        // vector<int>ans;
         if(dp[n-1][n-1].first < 0 ) return {0,0};
-        ans.push_back(dp[n-1][n-1].first);
-        ans.push_back(dp[n-1][n-1].second);
-        return ans;
+        // ans.push_back(dp[n-1][n-1].first);
+        // ans.push_back(dp[n-1][n-1].second);
+        return {dp[n-1][n-1].first, dp[n-1][n-1].second};
     }
 };
