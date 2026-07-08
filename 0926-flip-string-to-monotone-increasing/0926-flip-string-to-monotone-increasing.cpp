@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int LR(string & s , int ind , int prev, vector<vector<int>>& dp){
+    int LR(const string & s , int ind , int prev, vector<vector<int>>& dp){
         int n = s.size();
         if( ind == n) 
             return 0;
