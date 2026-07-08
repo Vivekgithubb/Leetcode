@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Vivekgithubb/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Vivekgithubb/Leetcode/tree/master/0097-interleaving-string) |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Vivekgithubb/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vivekgithubb/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
