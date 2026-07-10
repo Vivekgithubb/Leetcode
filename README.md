@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Vivekgithubb/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/Vivekgithubb/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Vivekgithubb/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Vivekgithubb/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
