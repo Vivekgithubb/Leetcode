@@ -4,8 +4,10 @@ public:
         int n = arr.size();
         if( i == n) return 0;
         if(dp[i] != -1 ) return dp[i];
+        
         int maxCost = 1;
         int maxE = arr[i];
+
         for(int j=i;j<n;j++){
             if(j-i+1 > k)   break;
             maxE = max(maxE , arr[j]);
@@ -17,7 +19,24 @@ public:
     }
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
         int n = arr.size();
-        vector<int>dp(n,-1);
-        return solve(arr,k,0,dp);
+        // vector<int>dp(n,-1);
+        // return solve(arr,k,0,dp);
+        
+        vector<int>dp(n+1,0);
+        for(int i=n-1;i>=0;i--){
+            int maxCost = 1;
+            int maxE = arr[i];
+
+            for(int j=i;j<n;j++){
+                if(j-i+1 > k)   break;
+                maxE = max(maxE , arr[j]);
+                int cost = maxE*(j-i+1) + dp[j+1];
+                maxCost = max(cost , maxCost);
+            }
+
+            dp[i]= maxCost;            
+        }
+
+        return dp[0];
     }
 };
