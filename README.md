@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vivekgithubb/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Vivekgithubb/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Vivekgithubb/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Vivekgithubb/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vivekgithubb/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Vivekgithubb/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Vivekgithubb/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
