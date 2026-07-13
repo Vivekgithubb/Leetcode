@@ -15,10 +15,19 @@ public:
         int ans = 0;
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>>dp(n,vector<int>(m,-1));
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans += find(i,j,matrix,dp);
+        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                if( matrix[i][j] == 0 ) 
+                    continue ;
+
+                int l = dp[i][j+1];
+                int d = dp[i+1][j+1];
+                int r = dp[i+1][j];
+                dp[i][j] = 1 + min({l,r,d});
+
+                if(dp[i][j] >= 1 )
+                    ans += dp[i][j];
             }
         }
         return ans;
