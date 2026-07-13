@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivekgithubb/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
 ## Stack
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekgithubb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekgithubb/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
