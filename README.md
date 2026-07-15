@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivekgithubb/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
