@@ -13,14 +13,9 @@ public:
             else
                 t += s[i];
         }
-        while( fy > 0){
-            t += y;
-            fy--;
-        }
-        while( lx > 0){
-            t += x;
-            lx--;
-        }
+
+        t.append(fy,y);
+        t.append(lx,x);
         return t;
     }
 };
