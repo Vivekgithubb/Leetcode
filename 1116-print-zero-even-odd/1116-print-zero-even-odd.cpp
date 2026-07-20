@@ -14,8 +14,8 @@ public:
 
     // printNumber(x) outputs "x", where x is an integer.
     void zero(function<void(int)> printNumber) {
-        unique_lock<mutex>lock(m);
         while(count <= n){  
+            unique_lock<mutex>lock(m);
             while(turn != 0 && count <= n){
                 cv.wait(lock);
             }
@@ -29,8 +29,8 @@ public:
     }
 
     void even(function<void(int)> printNumber) {
-        unique_lock<mutex>lock(m);
         while(count <= n){  
+            unique_lock<mutex>lock(m);
             while(turn != 1 && count <= n){
                 cv.wait(lock);
             }
@@ -44,8 +44,8 @@ public:
     }
 
     void odd(function<void(int)> printNumber) {
-        unique_lock<mutex>lock(m);
         while(count <= n){  
+            unique_lock<mutex>lock(m);
             while(turn != 2 && count <= n){
                 cv.wait(lock);
             }
