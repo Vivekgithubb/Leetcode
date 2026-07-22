@@ -18,10 +18,12 @@ public:
         int cur = node->val;
         int lVal = solve(node->left,count);
         int rVal = solve(node->right,count);
-        if( cur >= lVal && cur >= rVal)
-            count++;
+        int maxVal = max(lVal , rVal);
         
-        cur = max({lVal , cur , rVal});
+        if( cur >= maxVal)
+            count++;
+        cur = max(cur,maxVal);
+
         return cur;
     }
     int countDominantNodes(TreeNode* root) {
