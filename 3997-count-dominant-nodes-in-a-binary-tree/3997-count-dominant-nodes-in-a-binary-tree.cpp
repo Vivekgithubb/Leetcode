@@ -26,7 +26,6 @@ public:
     }
     int countDominantNodes(TreeNode* root) {
         int count = 0;
-        int lasrgest = INT_MIN;
         solve(root,count);
         return count;
     }
