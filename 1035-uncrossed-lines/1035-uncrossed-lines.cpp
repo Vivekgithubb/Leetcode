@@ -28,6 +28,6 @@ public:
                     dp[i][j] = max(dp[i+1][j] , dp[i][j+1]);
             }
         }
-        return solve(0,0,nums1,nums2,dp);
+        return dp[0][0];
     }
 };
