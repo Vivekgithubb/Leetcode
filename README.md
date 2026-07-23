@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/Vivekgithubb/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-print-zero-even-odd](https://github.com/Vivekgithubb/Leetcode/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Vivekgithubb/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Vivekgithubb/Leetcode/tree/master/1226-the-dining-philosophers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
