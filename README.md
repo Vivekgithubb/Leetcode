@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Vivekgithubb/Leetcode/tree/master/0041-first-missing-positive) |
+| [0063-unique-paths-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vivekgithubb/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/Vivekgithubb/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekgithubb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0289-game-of-life](https://github.com/Vivekgithubb/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/1260-shift-2d-grid) |
