@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Vivekgithubb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0576-out-of-boundary-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 | [0647-palindromic-substrings](https://github.com/Vivekgithubb/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -234,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 ## Trie
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vivekgithubb/Leetcode/tree/master/0139-word-break) |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
