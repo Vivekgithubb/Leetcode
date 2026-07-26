@@ -16,17 +16,11 @@ public:
             if(nums[i] > nums[i+1])
                 count = 0;   
         }   
-        for(auto i : pre)
-            cout<<i<<"\t";
-        cout<<endl;
-        for(auto i : suf)
-            cout<<i<<"\t";
         vector<int>ans;
         for(int i=k;i <= n-k ;i++){
             if(pre[i] >= k && suf[i] >= k)
                 ans.push_back(i);
         }
-
         return ans;
     }
 };
