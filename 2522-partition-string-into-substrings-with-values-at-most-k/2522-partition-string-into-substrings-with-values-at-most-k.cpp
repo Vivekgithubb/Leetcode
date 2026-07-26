@@ -5,18 +5,20 @@ public:
         bool pos = true;
         string temp = "";
         int i=0;
-        while(i < s.length()){
+        long long current = 0;
+        for(int i=0 ; i<s.length() ; i++){
             if( s[i] -'0' > k){
                 return -1;
             }
-            temp += s[i];
-            long long check = stoll(temp);
-            if(check > 1LL*k){
-                temp = "";
-                count++;
-            }
             else{
-                i++;
+                current = current * 10 + (s[i]-'0');
+                if(current > 1LL*k){
+                    current = s[i]-'0';
+                    count++;
+                }
+                else{
+                    continue;
+                }
             }
         }
         return count+1;
