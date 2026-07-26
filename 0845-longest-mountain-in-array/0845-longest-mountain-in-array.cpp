@@ -2,6 +2,7 @@ class Solution {
 public:
     int longestMountain(vector<int>& nums) {
         int n = nums.size();
+        bool flip = false;
         int maxL = 0;
         for(int i=0;i<n-1;i++){
             int count = 1;
