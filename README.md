@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Vivekgithubb/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vivekgithubb/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivekgithubb/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Vivekgithubb/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1035-uncrossed-lines](https://github.com/Vivekgithubb/Leetcode/tree/master/1035-uncrossed-lines) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Vivekgithubb/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vivekgithubb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/Vivekgithubb/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekgithubb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
