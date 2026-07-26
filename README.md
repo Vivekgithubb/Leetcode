@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2420-find-all-good-indices](https://github.com/Vivekgithubb/Leetcode/tree/master/2420-find-all-good-indices) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Vivekgithubb/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Vivekgithubb/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Vivekgithubb/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivekgithubb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Vivekgithubb/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Sorting
 |  |
 | ------- |
