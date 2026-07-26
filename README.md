@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivekgithubb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2420-find-all-good-indices](https://github.com/Vivekgithubb/Leetcode/tree/master/2420-find-all-good-indices) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vivekgithubb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vivekgithubb/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekgithubb/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vivekgithubb/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2420-find-all-good-indices](https://github.com/Vivekgithubb/Leetcode/tree/master/2420-find-all-good-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
+| [2420-find-all-good-indices](https://github.com/Vivekgithubb/Leetcode/tree/master/2420-find-all-good-indices) |
 ## Stack
 |  |
 | ------- |
