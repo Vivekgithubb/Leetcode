@@ -13,10 +13,7 @@ public:
             if(freq >= 2){
                 str1.append(freq/2, c);
                 str2.append(freq/2, c);
-                if(freq %2 == 0)
-                    freq = 0;
-                else 
-                    freq = 1;
+                freq = freq % 2 == 0 ? 0 : 1;
             }
         }
         if( n%2 != 0){
