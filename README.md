@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivekgithubb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekgithubb/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2420-find-all-good-indices](https://github.com/Vivekgithubb/Leetcode/tree/master/2420-find-all-good-indices) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vivekgithubb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Vivekgithubb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivekgithubb/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Vivekgithubb/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
