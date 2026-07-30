@@ -7,23 +7,17 @@ public:
         int score = 0;
         int ans = 0;
         while(i <= j){
-            if( power < token[i] ){
-                i++;
-                continue;
-            }
-            while(i <= j && power >= token[i]){
+            if( power >= token[i]){
                 score += 1; 
                 power -= token[i];
-                cout<<power<<endl;
+                ans = max(ans,score);
                 i++;
-            }
-
-            ans = max(ans,score);
-
-            if( i <= j && score > 0 ) {
+            }else if( score > 0 ) {
                 score -= 1;
                 power += token[j];
                 j--;
+            }else{ 
+                break;
             }
         }
 
