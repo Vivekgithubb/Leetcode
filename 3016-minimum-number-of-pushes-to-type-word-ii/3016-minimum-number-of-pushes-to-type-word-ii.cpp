@@ -11,6 +11,7 @@ public:
         int n = v.size();
         for(int i=0;i<n;){
             int x = 2;
+            if(v[i] == 0) break; //all elements done
             while(i < n && x <= 9){
                ans += (v[i] * count);
                x += 1;
