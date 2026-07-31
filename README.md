@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Vivekgithubb/Leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Vivekgithubb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vivekgithubb/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/Vivekgithubb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/Vivekgithubb/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivekgithubb/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/Vivekgithubb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Vivekgithubb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Vivekgithubb/Leetcode/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vivekgithubb/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekgithubb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Vivekgithubb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Vivekgithubb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Vivekgithubb/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/Vivekgithubb/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/Vivekgithubb/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Vivekgithubb/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekgithubb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
