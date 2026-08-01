@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekgithubb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekgithubb/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekgithubb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekgithubb/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -363,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
