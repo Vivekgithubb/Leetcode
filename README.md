@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekgithubb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekgithubb/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -367,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 <!---LeetCode Topics End-->
