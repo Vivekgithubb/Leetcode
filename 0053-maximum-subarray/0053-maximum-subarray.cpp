@@ -6,15 +6,9 @@ public:
         int j=0;
         int sum = 0;
         for(int i=0;i<n;i++){
-            while(j < n){
-                sum += nums[j];
-                ans = max({sum , ans , nums[j]});
-                j++;
-                if( sum  < 0){
-                    sum = 0;
-                }
-            }
-            i = j;
+            sum += nums[i];
+            ans = max(sum , ans);
+            if( sum < 0) sum = 0;
         }
         return ans;
     }
