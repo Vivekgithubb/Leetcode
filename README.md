@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekgithubb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivekgithubb/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0706-design-hashmap](https://github.com/Vivekgithubb/Leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivekgithubb/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Vivekgithubb/Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vivekgithubb/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0706-design-hashmap](https://github.com/Vivekgithubb/Leetcode/tree/master/0706-design-hashmap) |
 | [0740-delete-and-earn](https://github.com/Vivekgithubb/Leetcode/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekgithubb/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekgithubb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekgithubb/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0706-design-hashmap](https://github.com/Vivekgithubb/Leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Vivekgithubb/Leetcode/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Vivekgithubb/Leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Vivekgithubb/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
