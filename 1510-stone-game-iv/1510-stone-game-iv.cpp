@@ -8,7 +8,7 @@ public:
 
         for(int j=1; j*j<= n ; j++){
             bool rem = solve(n - (j*j) , dp);
-            if( rem == false) 
+            if( rem == 0) 
                 return dp[n] = 1;
         }
         return dp[n] = 0;
