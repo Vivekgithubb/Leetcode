@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekgithubb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivekgithubb/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekgithubb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vivekgithubb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0638-shopping-offers](https://github.com/Vivekgithubb/Leetcode/tree/master/0638-shopping-offers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vivekgithubb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivekgithubb/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |
