@@ -13,7 +13,6 @@ public:
             else 
                 wait = p - r;
 
-            cout<<wait<<endl;
             ans = max(wait,ans);
         }
         return ans;
