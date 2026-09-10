@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekgithubb/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekgithubb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vivekgithubb/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Vivekgithubb/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekgithubb/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vivekgithubb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekgithubb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vivekgithubb/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekgithubb/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
 | ------- |
